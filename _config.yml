@@ -5,6 +5,7 @@
 title: Professor Famiglietti's Test Site
 # Short bio or description (displayed in the header)
 description: A Blog
+theme: jekyll-theme-hacker
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
