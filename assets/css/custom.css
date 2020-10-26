@@ -5,6 +5,7 @@
 .nav-btn {
   display: block; 
   width: 25%;
+  color: white;
 }
 
 .head-wrapper {
@@ -14,6 +15,7 @@
 
 header.page-header {
   background-image: none;
+  background-color: none;
 }
 
 
