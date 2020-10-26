@@ -8,5 +8,5 @@
 }
 
 header.page-header {
-  background: url("/assets/images/dsc_0231.jpg") contain;
+  background-image: url("/assets/images/dsc_0231.jpg");
 }
