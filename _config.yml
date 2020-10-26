@@ -2,9 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
-title: Professor Famiglietti's Test Site
+title: The Radish Patch 
 # Short bio or description (displayed in the header)
-description: A Blog
+description: Organic Farm
 theme: jekyll-theme-cayman
 
 #
