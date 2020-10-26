@@ -1,5 +1,5 @@
 body {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .nav-content {
@@ -15,6 +15,7 @@ body {
 .head-wrapper {
   background-image: url("/assets/images/DSC_0231.jpg");
   background-size: cover;
+  font-family: 'Source Serif Pro', serif;
 }
 
 header.page-header {
