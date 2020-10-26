@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="/assets/css/custom.css">
   </head>
   <body>
-    <header class="page-header" role="banner">
-        <nav>
+    <div class="head-wrapper">
+    <nav>
         <div class="main-content nav-content">
           <a href="/" class="nav-btn">Home</a>
           <a href="/about.html" class="nav-btn">About</a>
@@ -31,10 +31,11 @@
           <a href="/pictures.html" class="nav-btn">Pictures</a>
         </div>
       </nav> 
+    <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> 
     </header>
-
+    </div>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
