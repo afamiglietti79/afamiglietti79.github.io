@@ -21,11 +21,13 @@
   </head>
   <body>
       <nav>
-        <a href="/" class="btn nav-btn">Home</a>
-        <a href="/about.html" class="nav-btn">About</a>
-        <a href="/shop.html" class="nav-btn">Shop</a>
-        <a href="/blog.html" class="nav-btn">Blog</a>
-        <a href="/pictures.html" class="nav-btn">Pictures</a>
+        <div class="main-content">
+          <a href="/" class="btn nav-btn">Home</a>
+          <a href="/about.html" class="nav-btn">About</a>
+          <a href="/shop.html" class="nav-btn">Shop</a>
+          <a href="/blog.html" class="nav-btn">Blog</a>
+          <a href="/pictures.html" class="nav-btn">Pictures</a>
+        </div>
       </nav> 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
