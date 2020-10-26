@@ -9,4 +9,5 @@
 
 header.page-header {
   background-image: url("/assets/images/DSC_0231.jpg");
+  background-size: contain;
 }
