@@ -1,10 +1,13 @@
 .nav-content {
-  display: flex; 
+  display: flex;
+  background-color: #163205;
+  font-family: 'Source Serif Pro', serif; 
 }
 
 .nav-link {
  display: block;
  width: 20%; 
+ color: white; 
 }
 
 .page-header {
