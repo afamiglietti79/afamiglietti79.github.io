@@ -1,4 +1,11 @@
+.nav-content {
+  display: flex; 
+}
 
+.nav-links {
+ display: block;
+ width: 20%; 
+}
 
 
 
