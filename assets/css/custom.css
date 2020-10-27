@@ -10,6 +10,11 @@
 .page-header {
  background-image: url("/assets/images/DSC_0231.jpg");
  background-size: cover;
+ font-family: 'Source Serif Pro', serif; 
+}
+
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 
