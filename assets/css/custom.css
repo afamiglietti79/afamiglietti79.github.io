@@ -1,27 +1,4 @@
-body {
-  font-family: 'IBM Plex Sans', sans-serif;
-}
 
-.nav-content {
-  display: flex;
-}
-
-.nav-btn {
-  display: block; 
-  width: 25%;
-  color: white;
-}
-
-.head-wrapper {
-  background-image: url("/assets/images/DSC_0231.jpg");
-  background-size: cover;
-  font-family: 'Source Serif Pro', serif;
-}
-
-header.page-header {
-  background-image: none;
-  background-color: transparent;
-}
 
 
 
