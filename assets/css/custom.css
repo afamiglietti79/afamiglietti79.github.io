@@ -1,3 +1,15 @@
+.gallery {
+  display: flex;
+}
+
+.image_box {
+  width: 50%;
+}
+
+.gallery_image {
+  object_fit: contain;
+}
+
 .nav-content {
   display: flex;
   font-family: 'Source Serif Pro', serif; 
