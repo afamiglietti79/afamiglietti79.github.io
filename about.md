@@ -2,6 +2,6 @@
 layout: default
 ---
 
-#Our Story
+# Our Story
 
-This is a test to see if **markdown** is working 
+This is a test to see if **markdown** is working again, is it?
