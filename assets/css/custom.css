@@ -4,11 +4,11 @@
 
 .image_box {
   width: 48%;
-  margins: 2%;
+  margin: 2%;
 }
 
 .gallery_image {
-  object_fit: cover;
+  object-fit: cover;
 }
 
 .nav-content {
